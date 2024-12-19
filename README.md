@@ -1,2 +1,2 @@
-# cloudsolutions.nexus
+# Nexus Solutions UG
 Repository for organization discussions
