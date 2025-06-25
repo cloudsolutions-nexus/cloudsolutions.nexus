@@ -1,2 +1,2 @@
-# Nexus Solutions UG
+# Nexus App
 Repository for organization discussions
